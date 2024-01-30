@@ -2,7 +2,28 @@
 sidebar_position: 1
 ---
 
+
+
+
 # 启动开发板
+
+
+
+  ○ 编译构建系统
+  ○ 编译打包Bootloader
+  ○ 编译打包Linux Kernel
+  ○ 编译构建rootfs
+  ○ 支持启动WiFi
+  ○ 支持MIPI显示屏
+  ○ 支持双百兆网卡
+  ○ 支持RS485
+  ○ 支持CAN
+  ○ 支持USB HUB
+  ○ 支持按键
+  ○ 支持麦克风录音
+  ○ 支持扬声器播放声音
+  ○ 支持4G模块
+
 
 **注意：开发板板载了 SPI-NorFLASH 发货前都会把Tina-Linux 系统提前烧录至 SPINor内，对于使用TF卡启动的同学 请单独看后续章节 `更新系统` 单独烧录系统至TF卡并启动。**
 

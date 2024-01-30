@@ -79,6 +79,12 @@ const config = {
             label: 'D213-DevKit',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'lunbansdkSidebar',
+            position: 'left',
+            label: 'Luban-SDK',
+          },          
+          {
             type: 'localeDropdown',
             position: 'right',
           },
