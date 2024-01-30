@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://dongshanpi.100ask.net',
+  url: 'https://artinchip.100ask.net/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: '100askTeam', // Usually your GitHub org/user name.
-  projectName: 'linuxboard-docs', // Usually your repo name.
+  projectName: 'ArtInChip-Docs', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/100askTeam/linuxboard-docs/tree/main/',
+            'https://github.com/100askTeam/ArtInChip-Docs/tree/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/100askTeam/linuxboard-docs/tree/main/',
+            'https://github.com/100askTeam/ArtInChip-Docs/tree/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -74,52 +74,16 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 't113s3Sidebar',
-            position: 'left',
-            label: 'T113s3-Industrial',
-          },          
-          {
-            type: 'docSidebar',
-            sidebarId: 'v851seSidebar',
-            position: 'left',
-            label: 'TinyVision',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'd1hdSidebar',
-            position: 'left',
-            label: 'D1h-DualDisplay',
-          },
-          {
-            type: 'docSidebar',
             sidebarId: 'd213dkSidebar',
             position: 'left',
             label: 'D213-DevKit',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'mp135dkSidebar',
-            position: 'left',
-            label: 'MP135-DevKit',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'd1scvbsSidebar',
-            position: 'left',
-            label: 'D1s-CVBS',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 't113iSidebar',
-            position: 'left',
-            label: 'T113i-Industrial',
-          },          
-          {
             type: 'localeDropdown',
             position: 'right',
           },
           {
-            href: 'https://github.com/100askTeam/linuxboard-docs',
+            href: 'https://github.com/100askTeam/ArtInChip-Docs',
             label: 'GitHub',
             position: 'right',
           },
