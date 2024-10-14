@@ -1,14 +1,14 @@
 ---
 sidebar_position: 1
 ---
-# 匠心创D213-DevKit开发板
+# 匠芯创D213-DevKit开发板
 
 - 此开发板的任何问题都可以在我们的论坛交流讨论 [https://forums.100ask.net/](https://forums.100ask.net/)
 
 ## 1.硬件简述
 ### 1.1 开发板简述
 
-D213-DEVKITF是百问网联合匠心创推出的一款用于学习了解使用 D213 芯片以及SDK的开发套件，作为一款全国产全自主设计研发的RISCV工业控制芯片有着较为全面的使用场景更高的可靠性更完善的资料更好的支持。我们底板针对于工业场景进行了专门的设计，板载5路RS485,双路CAN,支持MIPI显示+I2C触摸,支持WIFI以及两路有线网卡，支持4G上网，板载USB OTG烧录口，板载usb转串口电路，无需专门购买转换线， 拥有 4个 用户按键，板载 3个系统按键 RESET/WAKEUP/UBOOT，将USB1专门引出至TypeA接口，更适合工控应用开发！
+D213-DEVKITF是百问网联合匠芯创推出的一款用于学习了解使用 D213 芯片以及SDK的开发套件，作为一款全国产全自主设计研发的RISCV工业控制芯片有着较为全面的使用场景更高的可靠性更完善的资料更好的支持。我们底板针对于工业场景进行了专门的设计，板载5路RS485,双路CAN,支持MIPI显示+I2C触摸,支持WIFI以及两路有线网卡，支持4G上网，板载USB OTG烧录口，板载usb转串口电路，无需专门购买转换线， 拥有 4个 用户按键，板载 3个系统按键 RESET/WAKEUP/UBOOT，将USB1专门引出至TypeA接口，更适合工控应用开发！
 
 ![board_03-1](https://photos.100ask.net/artinchip-docs/d213-devkit/image-zhutu_03-1.jpg)
 
